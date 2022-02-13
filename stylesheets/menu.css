@@ -1,0 +1,204 @@
+body {
+  font-family: sans-serif;
+  width: 700px;
+  height: 100%;
+  margin-left: 100;
+  font-size: 12px
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+}
+a.one:link {
+  color: black;
+  text-decoration-color: lightblue;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.one:visited {
+  color: black;
+  text-decoration-color: lightblue;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.one:hover {
+  color: black;
+  text-decoration-color: lightblue;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.one:active {
+  color: black;
+  text-decoration-color: lightblue;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.two:link {
+  color: black;
+  text-decoration-color: lime;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.two:visited {
+  color: black;
+  text-decoration-color: lime;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.two:hover {
+  color: black;
+  text-decoration-color: lime;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.two:active {
+  color: black;
+  text-decoration-color: lime;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.three:link {
+  color: black;
+  text-decoration-color: yellow;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.three:visited {
+  color: black;
+  text-decoration-color: yellow;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.three:hover {
+  color: black;
+  text-decoration-color: yellow;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.three:active {
+  color: black;
+  text-decoration-color: yellow;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.four:link {
+  color: black;
+  text-decoration-color: violet;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.four:visited {
+  color: black;
+  text-decoration-color: violet;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.four:hover {
+  color: black;
+  text-decoration-color: violet;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.four:active {
+  color: black;
+  text-decoration-color: violet;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.five:link {
+  color: black;
+  text-decoration-color: pink;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.five:visited {
+  color: black;
+  text-decoration-color: pink;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.five:hover {
+  color: black;
+  text-decoration-color: pink;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.five:active {
+  color: black;
+  text-decoration-color: pink;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.six:link {
+  color: black;
+  text-decoration-color: aqua;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.six:visited {
+  color: black;
+  text-decoration-color: aqua;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.six:hover {
+  color: black;
+  text-decoration-color: aqua;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+  letter-spacing: 1px;
+}
+a.six:active {
+  color: black;
+  text-decoration-color: aqua;
+  text-decoration-thickness: 3px;
+  font-weight: bold;
+  text-underline-offset: 8px;
+}
